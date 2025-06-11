@@ -17,10 +17,10 @@
 
     <div class="container py-5">
         <div class="row align-items-center justify-content-center">
-            <!-- Kontak Kiri -->
+
             <div class="col-md-5 mb-4">
                 <h5>Kontak</h5>
-                <h1>Hubungi Kami & <br> Temukan Potensimu <br> Bersama Melon <br> Branding</h1>
+                <h1 style="font-size: 60px;">Hubungi Kami & <br> Temukan Potensimu <br> Bersama Melon <br> Branding</h1>
 
                 <div class="d-flex align-items-start mt-4">
                     <i class="fa-solid fa-location-dot me-2 mt-1 fs-5"></i>
@@ -29,7 +29,7 @@
 
                 <div class="d-flex align-items-start mt-2">
                     <i class="fa-solid fa-envelope me-2 mt-1 fs-5"></i>
-                    <span>hello@apelbranding.com</span>
+                    <span>hello@Melonbranding.com</span>
                 </div>
 
                 <div class="d-flex align-items-start mt-2">
@@ -38,7 +38,7 @@
                 </div>
             </div>
 
-            <!-- Form Kanan -->
+
             <div class="col-md-6">
                 <h2 class="mb-4 text-center fw-bold">Hubungi Kami</h2>
                 <form class="bg-success p-4 rounded shadow-sm text-white">

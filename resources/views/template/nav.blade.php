@@ -91,7 +91,7 @@
 
                 <div class="d-flex align-items-start">
                     <i class="fa-solid fa-envelope me-2 mt-1 fs-1"></i>
-                    <span class="fs-4">hello@apelbranding.com</span>
+                    <span class="fs-4">hello@Melonbranding.com</span>
                 </div>
 
                 <div class="d-flex align-items-start">
