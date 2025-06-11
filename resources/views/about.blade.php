@@ -103,7 +103,7 @@
 
     <div class="container my-5 text-center">
         <h2 class="fw-bold">Tim Kami</h2>
-        <img src="{{ asset('images/image1.jpg')}}" alt="" class="img-fluid rounded-circle" style="width: 200px; height: 200px; object-fit: cover;">
+        <img src="{{ asset('images/me.jpg')}}" alt="" class="img-fluid rounded-circle" style="width: 200px; height: 200px; object-fit: cover;">
         <hr class="fs-5 text-bold w-25 mx-auto my-4">
         <p class="">Muhamad Faiz Abbasy <br>
         CEO</p>

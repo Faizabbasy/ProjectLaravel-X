@@ -291,42 +291,41 @@
 
 
              <div class="row gx-2 gy-5 justify-content-center">
-                 <!-- Arsitektur -->
+
                  <div class="col-12 col-md-6 text-center">
                      <h5 class="fw-bold mb-2">Arsitektur dan Properti</h5>
                      <img src="{{ asset('contoh_web/arsitek.jpg') }}" alt="Arsitektur"
                          class="img-fluid rounded shadow-sm w-75 px-1" style="max-height: 350px; object-fit: cover;">
                  </div>
 
-                 <!-- Kesehatan -->
+
                  <div class="col-12 col-md-6 text-center">
                      <h5 class="fw-bold mb-2">Kesehatan</h5>
                      <img src="{{ asset('contoh_web/kesehatan.jpg') }}" alt="Kesehatan"
                          class="img-fluid rounded shadow-sm w-75 px-1" style="max-height: 350px; object-fit: cover;">
                  </div>
 
-                 <!-- sport -->
+
                  <div class="col-12 col-md-6 text-center">
                      <h5 class="fw-bold mb-2">Sport</h5>
                      <img src="{{ asset('contoh_web/sport.jpg') }}" alt="Manufaktur"
                          class="img-fluid rounded shadow-sm w-75 px-1" style="max-height: 350px; object-fit: cover;">
                  </div>
 
-                 <!-- Teknologi -->
                  <div class="col-12 col-md-6 text-center">
                      <h5 class="fw-bold mb-2">Teknologi</h5>
                      <img src="{{ asset('contoh_web/tekno.jpg') }}" alt="Teknologi"
                          class="img-fluid rounded shadow-sm w-75 px-1" style="max-height: 350px; object-fit: cover;">
                  </div>
 
-                 <!-- Fashion -->
+
                  <div class="col-12 col-md-6 text-center">
                      <h5 class="fw-bold mb-2">Fashion dan Kecantikan</h5>
                      <img src="{{ asset('contoh_web/fashion.jpg') }}" alt="Fashion"
                          class="img-fluid rounded shadow-sm w-75 px-1" style="max-height: 350px; object-fit: cover;">
                  </div>
 
-                 <!-- Lainnya -->
+
                  <div class="col-12 col-md-6 text-center">
                      <h5 class="fw-bold mb-2">Lainnya</h5>
                      <img src="{{ asset('contoh_web/lain.jpg') }}" alt="Lainnya"
@@ -368,14 +367,5 @@
 
 
 
-     {{--
-    <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.11.8/dist/umd/popper.min.js"
-        integrity="sha384-I7E8VVD/ismYTF4hNIPjVp/Zjvgyol6VFvRkX/vR+Vc4jQkC+hVqc2pM8ODewa9r" crossorigin="anonymous">
-    </script>
-    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.6/dist/js/bootstrap.min.js"
-        integrity="sha384-RuyvpeZCxMJCqVUGFI0Do1mQrods/hhxYlcVfGPOfQtPJh0JCw12tUAZ/Mv10S7D" crossorigin="anonymous">
-    </script>
-</body>
 
-</html> --}}
  @endsection
